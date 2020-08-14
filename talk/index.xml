@@ -5,12 +5,28 @@
     <link>https://arghyanit.github.io/talk/</link>
       <atom:link href="https://arghyanit.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2019 12:00:14 +0530</lastBuildDate>
     <image>
-      <url>https://arghyanit.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://arghyanit.github.io/images/icon_hu46a858f5ea089353b057fb401cdb2574_7418_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://arghyanit.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Off-diagonal cumulants of net-particle multiplicity distributions in Au&#43;Au collisions and effect of centrality selection on net-proton cumulant analysis</title>
+      <link>https://arghyanit.github.io/talk/hibr-2019/</link>
+      <pubDate>Thu, 14 Nov 2019 12:00:14 +0530</pubDate>
+      <guid>https://arghyanit.github.io/talk/hibr-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-diagonal cumulants of net-charge, net-proton and net-kaon multiplicity distributions in Au&#43;Au collisions at $/^{-} s_{NN}$ = 7.7-200 GeV</title>
+      <link>https://arghyanit.github.io/talk/cpod-2018/</link>
+      <pubDate>Tue, 25 Sep 2018 12:00:01 +0530</pubDate>
+      <guid>https://arghyanit.github.io/talk/cpod-2018/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
