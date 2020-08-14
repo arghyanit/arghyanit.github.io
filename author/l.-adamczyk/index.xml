@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Adamczyk | Arghya Chatterjee</title>
+    <link>https://arghyanit.github.io/author/l.-adamczyk/</link>
+      <atom:link href="https://arghyanit.github.io/author/l.-adamczyk/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Adamczyk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arghyanit.github.io/images/icon_hu46a858f5ea089353b057fb401cdb2574_7418_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Adamczyk</title>
+      <link>https://arghyanit.github.io/author/l.-adamczyk/</link>
+    </image>
+    
+    <item>
+      <title>Collision Energy Dependence of Moments of Net-Kaon Multiplicity Distributions at RHIC</title>
+      <link>https://arghyanit.github.io/publication/adamczyk-2017-wsl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/adamczyk-2017-wsl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Zhang | Arghya Chatterjee</title>
+    <link>https://arghyanit.github.io/author/yu-zhang/</link>
+      <atom:link href="https://arghyanit.github.io/author/yu-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arghyanit.github.io/images/icon_hu46a858f5ea089353b057fb401cdb2574_7418_512x512_fill_lanczos_center_2.png</url>
+      <title>Yu Zhang</title>
+      <link>https://arghyanit.github.io/author/yu-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Effect of centrality selection on higher-order cumulants of net-proton multiplicity distributions in relativistic heavy-ion collisions</title>
+      <link>https://arghyanit.github.io/publication/chatterjee-2019-fey/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/chatterjee-2019-fey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
