@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sumit Basu | Arghya Chatterjee</title>
+    <link>https://arghyanit.github.io/author/sumit-basu/</link>
+      <atom:link href="https://arghyanit.github.io/author/sumit-basu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sumit Basu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arghyanit.github.io/images/icon_hu46a858f5ea089353b057fb401cdb2574_7418_512x512_fill_lanczos_center_2.png</url>
+      <title>Sumit Basu</title>
+      <link>https://arghyanit.github.io/author/sumit-basu/</link>
+    </image>
+    
+    <item>
+      <title>Isothermal compressibility of hadronic matter formed in relativistic nuclear collisions</title>
+      <link>https://arghyanit.github.io/publication/mukherjee-2017-elm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/mukherjee-2017-elm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

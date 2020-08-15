@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>others [STAR Collaboration] | Arghya Chatterjee</title>
+    <link>https://arghyanit.github.io/author/others-star-collaboration/</link>
+      <atom:link href="https://arghyanit.github.io/author/others-star-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>others [STAR Collaboration]</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arghyanit.github.io/images/icon_hu46a858f5ea089353b057fb401cdb2574_7418_512x512_fill_lanczos_center_2.png</url>
+      <title>others [STAR Collaboration]</title>
+      <link>https://arghyanit.github.io/author/others-star-collaboration/</link>
+    </image>
+    
+    <item>
+      <title>Beam energy dependence of net-$Łambda$ fluctuations measured by the STAR experiment at RHIC</title>
+      <link>https://arghyanit.github.io/publication/adam-2020-kzk/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/adam-2020-kzk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charge-dependent pair correlations relative to a third particle in $p$ &#43; Au and $d$&#43; Au collisions at RHIC</title>
+      <link>https://arghyanit.github.io/publication/star-2019-xzd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/star-2019-xzd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collision-energy dependence of second-order off-diagonal and diagonal cumulants of net-charge, net-proton, and net-kaon multiplicity distributions in Au &#43; Au collisions</title>
+      <link>https://arghyanit.github.io/publication/adam-2019-xmk/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/adam-2019-xmk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal double-spin asymmetry for inclusive jet and dijet production in pp collisions at $sqrts = 510$  GeV</title>
+      <link>https://arghyanit.github.io/publication/adam-2019-aml/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/adam-2019-aml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collision Energy Dependence of Moments of Net-Kaon Multiplicity Distributions at RHIC</title>
+      <link>https://arghyanit.github.io/publication/adamczyk-2017-wsl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/adamczyk-2017-wsl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
