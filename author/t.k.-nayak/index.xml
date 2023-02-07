@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T.K. Nayak | Arghya Chatterjee</title>
+    <link>https://arghyanit.github.io/author/t.k.-nayak/</link>
+      <atom:link href="https://arghyanit.github.io/author/t.k.-nayak/index.xml" rel="self" type="application/rss+xml" />
+    <description>T.K. Nayak</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arghyanit.github.io/images/icon_hu8f54243a62d2936b1e4b5dbe338872f1_7004_512x512_fill_lanczos_center_2.png</url>
+      <title>T.K. Nayak</title>
+      <link>https://arghyanit.github.io/author/t.k.-nayak/</link>
+    </image>
+    
+    <item>
+      <title>Susceptibilities of conserved quantities in relativistic heavy-ion collisions at RHIC</title>
+      <link>https://arghyanit.github.io/publication/chatterjee-2016-fuv/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/chatterjee-2016-fuv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.R. Adams | Arghya Chatterjee</title>
+    <link>https://arghyanit.github.io/author/j.r.-adams/</link>
+      <atom:link href="https://arghyanit.github.io/author/j.r.-adams/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.R. Adams</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arghyanit.github.io/images/icon_hu8f54243a62d2936b1e4b5dbe338872f1_7004_512x512_fill_lanczos_center_2.png</url>
+      <title>J.R. Adams</title>
+      <link>https://arghyanit.github.io/author/j.r.-adams/</link>
+    </image>
+    
+    <item>
+      <title>Collision Energy Dependence of Moments of Net-Kaon Multiplicity Distributions at RHIC</title>
+      <link>https://arghyanit.github.io/publication/adamczyk-2017-wsl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/adamczyk-2017-wsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global $Łambda$ hyperon polarization in nuclear collisions: evidence for the most vortical fluid</title>
+      <link>https://arghyanit.github.io/publication/star-2017-ckg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/star-2017-ckg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

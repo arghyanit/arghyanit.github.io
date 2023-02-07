@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maitreyee Mukherjee | Arghya Chatterjee</title>
+    <link>https://arghyanit.github.io/author/maitreyee-mukherjee/</link>
+      <atom:link href="https://arghyanit.github.io/author/maitreyee-mukherjee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maitreyee Mukherjee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arghyanit.github.io/images/icon_hu8f54243a62d2936b1e4b5dbe338872f1_7004_512x512_fill_lanczos_center_2.png</url>
+      <title>Maitreyee Mukherjee</title>
+      <link>https://arghyanit.github.io/author/maitreyee-mukherjee/</link>
+    </image>
+    
+    <item>
+      <title>Estimation of the isothermal compressibility from event-by-event multiplicity fluctuation studies</title>
+      <link>https://arghyanit.github.io/publication/mukherjee-2018-iup/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/mukherjee-2018-iup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isothermal compressibility of hadronic matter formed in relativistic nuclear collisions</title>
+      <link>https://arghyanit.github.io/publication/mukherjee-2017-elm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://arghyanit.github.io/publication/mukherjee-2017-elm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
